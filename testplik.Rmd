@@ -33,3 +33,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 # dodałam też i co teraz
 # proszę niech to zadziała
+# Daro tu byl hahaha
